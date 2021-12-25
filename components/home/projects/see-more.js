@@ -5,6 +5,7 @@ export default function SeeMore() {
 				<a
 					href="mailto:zahid@zmdev.com"
 					target="_blank"
+					rel="noreferrer"
 					className={`
                         w-full block text-lg lg:text-4xl font-bold items-center
                         px-4 hover:bg-azure-100 py-5 lg:py-2 text-center rounded-2xl
